@@ -1,2 +1,0 @@
-# canhub
-Storage gratis 
